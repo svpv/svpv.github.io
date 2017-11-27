@@ -1,0 +1,6 @@
+title: stringified form
+description: pseudorandom notes
+author: Alexey Tourbin
+github_username: svpv
+permalink: /:year/:month/:title
+theme: minima
